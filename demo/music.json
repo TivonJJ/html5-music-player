@@ -1,0 +1,41 @@
+[{
+  "name":"莲花",
+  "composer":"李玉刚",
+  "lyrics":"李玉刚",
+  "singer":"李玉刚",
+  "album":"莲花",
+  "type":"流行音乐",
+  "cover":"demo/res/lianhua/cover.jpg",
+  "link_url":"demo/res/lianhua/莲花.mp3",
+  "link_lrc":"demo/res/lianhua/莲花.lrc"
+},{
+  "name":"匆匆那年",
+  "composer":"李玉刚",
+  "lyrics":"林夕",
+  "singer":"王菲",
+  "album":"匆匆那年",
+  "type":"电影《匆匆那年》主题曲",
+  "cover":"demo/res/ccnn/0e2442a7d933c8953ee45510d21373f0830200c7.jpg",
+  "link_url":"demo/res/ccnn/匆匆那年.mp3",
+  "link_lrc":"demo/res/ccnn/匆匆那年.lrc"
+},{
+  "name":"小苹果",
+  "composer":"王太利",
+  "lyrics":"王太利",
+  "singer":"筷子兄弟",
+  "album":"老男孩之猛龙过江 电影原声",
+  "type":"电影《老男孩之猛龙过江》插曲",
+  "cover":"demo/res/xpg/122112239.jpg",
+  "link_url":"demo/res/xpg/小苹果.mp3",
+  "link_lrc":"demo/res/xpg/小苹果.lrc"
+},{
+  "name":"沧浪之歌",
+  "composer":"黄勇",
+  "lyrics":"汪峰",
+  "singer":"汪峰",
+  "album":"老男孩之猛龙过江 电影原声",
+  "type":"电影《狼图腾》中文主题曲",
+  "cover":"demo/res/clzg/faf2b2119313b07eed2459bc0fd7912396dd8cec.jpg",
+  "link_url":"demo/res/clzg/沧浪之歌.mp3",
+  "link_lrc":"demo/res/clzg/沧浪之歌.lrc"
+}]
